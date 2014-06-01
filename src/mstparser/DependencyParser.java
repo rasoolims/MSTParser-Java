@@ -19,7 +19,7 @@ public class DependencyParser {
 
   private final DependencyDecoder decoder;
 
-  protected Parameters params;
+  public Parameters params;
 
   Parameters getParams() {
     return params;

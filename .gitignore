@@ -27,3 +27,5 @@ out/production/mstparser/build.sh
 out/production/mstparser/build.xml
 out/production/mstparser/make.sh
 out/production/mstparser/pom.xml
+out/production/mstparser/data/1sen.conll
+out/production/mstparser/data/empty.conll
